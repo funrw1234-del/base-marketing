@@ -27,7 +27,7 @@
 | [maxim-seryakov-instrumenty/00-obzor.md](02-marketing/maxim-seryakov-instrumenty/00-obzor.md) | Обзор: 7 тактических инструментов от Максима Серякова (миллиардер, маркетинг/недвижимость), статус получения |
 | [maxim-seryakov-instrumenty/01-corp-celepolaganie.md](02-marketing/maxim-seryakov-instrumenty/01-corp-celepolaganie.md) | Инструмент 1: ЦОРП (Цель-Образ результата-План) — целеполагание на быстрые результаты, с примером и шаблоном ✅ |
 | [maxim-seryakov-instrumenty/02-princip-byuro-gorbunova.md](02-marketing/maxim-seryakov-instrumenty/02-princip-byuro-gorbunova.md) | Инструмент 2: Принцип Бюро Горбунова — ответственность исполнителя за результат, 6 пунктов ✅ |
-| [maxim-seryakov-instrumenty/03-upravlenie-konversiej.md](02-marketing/maxim-seryakov-instrumenty/03-upravlenie-konversiej.md) | Инструмент 3: Управление конверсией/сделкой как процессом |
+| [maxim-seryakov-instrumenty/03-upravlenie-konversiej.md](02-marketing/maxim-seryakov-instrumenty/03-upravlenie-konversiej.md) | Инструмент 3: Управление конверсией/сделкой — облако касаний, теплота, скорость обработки лида, кейс 🔶 (продолжение ожидается) |
 
 > ⚠️ Документы по ссылкам выше не были автоматически выгружены (сетевой доступ к docs.google.com заблокирован в рабочей среде) — зафиксированы только описания и ссылки. Полный текст нужно прислать вручную для внесения в базу.
 
